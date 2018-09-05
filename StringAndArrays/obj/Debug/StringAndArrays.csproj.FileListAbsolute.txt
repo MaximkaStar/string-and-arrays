@@ -1,0 +1,7 @@
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\bin\Debug\StringAndArrays.exe.config
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\bin\Debug\StringAndArrays.exe
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\bin\Debug\StringAndArrays.pdb
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\obj\Debug\StringAndArrays.csprojAssemblyReference.cache
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\obj\Debug\StringAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\obj\Debug\StringAndArrays.exe
+C:\Users\ПопченкоМ\source\repos\StringAndArrays\StringAndArrays\obj\Debug\StringAndArrays.pdb
